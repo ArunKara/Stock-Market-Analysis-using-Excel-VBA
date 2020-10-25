@@ -1,2 +1,0 @@
-# VBA-challenges
-VBA Homework
